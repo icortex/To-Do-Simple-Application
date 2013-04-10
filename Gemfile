@@ -26,7 +26,7 @@ gem "haml", ">= 3.1.4"
 gem "bootstrap-sass", ">= 2.0.1"
 gem "will_paginate", ">= 3.0.3"
 gem 'bootstrap-will_paginate', '~> 0.0.7'
-gem "therubyracer", :group => :assets, :platform => :ruby
+gem "therubyracer", '0.10.2', :platform => :ruby
 gem 'simple_form'
 gem "ransack"
 gem 'faker'
@@ -46,3 +46,4 @@ end
 
 gem 'cover_me', '>= 1.2.0', :group => :test
 gem 'yard'
+gem 'newrelic_rpm'
