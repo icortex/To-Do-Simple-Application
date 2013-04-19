@@ -1,5 +1,7 @@
 ## Join Quipper test
 
+[ ![Codeship Status for icortex/To-Do-Simple-Application](https://www.codeship.io/projects/d0be38f0-8b30-0130-2857-12313d02fc9b/status?branch=master)](https://www.codeship.io/projects/2734)
+
 Test application for [JoinQuipper](https://github.com/quipper/JoinQuipper).
 
 ### Features
